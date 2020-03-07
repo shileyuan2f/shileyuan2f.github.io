@@ -113,18 +113,18 @@ h5 {
     white-space: nowrap;
     margin: 0px;
     overflow: hidden;
-    background-color: #185359; /* #185359 background */
+    background-color: #d0decf; /* #185359 background */
     
     border-top: 5px solid #cccccc;
     border-bottom: 5px solid #cccccc;
-    border: 3px solid #185359;
+    border: 3px solid #d0decf;
     border-radius: 0px;
     -moz-border-radius: 0px;
     -webkit-border-radius: 0px;
 }
 #header h1 {
     text-align: left;
-    font-size: 30pt;
+    font-size: 45pt;
     position: relative;
     top: 8px;
     left: 53px;
