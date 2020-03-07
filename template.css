@@ -66,7 +66,7 @@ img {
 h1 {
     display: block;
     font-weight: bold;
-    letter-spacing: 1px;
+    letter-spacing: 8px;
     font-size: 18pt;
     color: #3333FF; /* Bluish, matches link color */
 }
@@ -124,7 +124,7 @@ h5 {
 }
 #header h1 {
     text-align: left;
-    font-size: 40pt;
+    font-size: 55pt;
     position: relative;
     top: 8px;
     left: 93px;
