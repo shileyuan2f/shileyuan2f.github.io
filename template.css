@@ -113,11 +113,11 @@ h5 {
     white-space: nowrap;
     margin: 0px;
     overflow: hidden;
-    background-color: #d0decf; /* #185359 background */
+    background-color: #185359; /* #185359 background */
     
     border-top: 5px solid #cccccc;
     border-bottom: 5px solid #cccccc;
-    border: 3px solid #d0decf;
+    border: 3px solid #185359;
     border-radius: 0px;
     -moz-border-radius: 0px;
     -webkit-border-radius: 0px;
