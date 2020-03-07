@@ -35,7 +35,7 @@ body {
     float: none !important;
     background-color: #FFFFFF; /* It's #5368C1 on KARL */
     color: #000000;
-    max-width: 1279.5px; /* Don't make website wide */
+    max-width: 100%; /* Don't make website wide 1279.5px */
 }
 
 /*
@@ -205,17 +205,5 @@ div.entrywrap-hover {
     -webkit-border-radius: 7px;
     border: 0px solid #000000;
 }
-@media screen and (max-device-width: 400px) {
-
-　　　　.column {
-　　　　　　float: none;
-　　　　　　width:auto;
-　　　　}
-
-　　　　#sidebar {
-　　　　　　display:none;
-　　　　}
-
-　　}/* wojiade */
 /* vim: expandtab
  */
